@@ -15,13 +15,13 @@ An SQL file has been provided with some initial data.
 
 There are several tasks which the course administrator needs to be able to carry out while using this app. They must be able to:
 
-- Add a new course to the catalog
+- Add a new course to the catalog (they are single-module courses with a single grade)
 - Update the details of a course
 - See a summary of a course including a list of the students taking it
 - Add a new student's details
 - Update a student's record
 - See a summary of a student's details including a list of the courses they have taken
-- Record the year in which a student took a course and their mark
+- Record the year in which a student took a course and their mark (The date in the sample data represents the completion date. No need to record start dates)
 - Only record marks for active courses
 
 Additionally, when viewing a course they want to be able to:
