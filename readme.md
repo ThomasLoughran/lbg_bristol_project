@@ -59,4 +59,3 @@ spring.sql.init.data-locations=classpath:/data.sql
 # defers the loading of the data until after the database has built
 spring.jpa.defer-datasource-initialization=true
 ``` 
-Editing to test pull request
