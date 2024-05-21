@@ -3,6 +3,7 @@ import HomePage from "./homepage";
 import StudentsPage from "./studentsPage";
 import Root from "./root";
 import ErrorPage from "./errorPage";
+import CoursesPage from "./coursesPage";
 
 
 export const router = createBrowserRouter([
@@ -18,6 +19,10 @@ export const router = createBrowserRouter([
             {
                 path: 'students',
                 element: <StudentsPage />
+            },
+            {
+                path: 'courses',
+                element: <CoursesPage />
             }
         ]
     }
